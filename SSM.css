@@ -1,0 +1,122 @@
+﻿.body {
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.hs {
+    font-family: roboto;
+    font-size: 36px;
+    color: #ffffff;
+    margin-top: -250px;
+    margin-left: 300px;
+    background: transparent;
+}
+
+.md {
+    width: 97%;
+    background-image: linear-gradient(90deg, rgb(34, 34, 34) 24.97%, rgb(34, 34, 34) 38.3%);
+    padding: 20px;
+}
+
+.ld {
+    width: 50%;
+}
+
+.movie-name {
+    height: 50px;
+    width: auto;
+}
+
+.movie-about {
+    height: 200px;
+}
+
+.rate {
+    margin-left: 40px;
+}
+
+.movie-rate {
+    width: 11%;
+    margin-top: -70px;
+    margin-left: 300px;
+}
+
+.tx {
+    height: 50px;
+    width: 500px;
+}
+
+.btn {
+    background-color: #f84464;
+    color: whitesmoke;
+    border: none;
+    height: 57px;
+    width: 60px;
+    font-size: 35px;
+    margin-left: 10px;
+    padding-top: 5px;
+    flex: initial;
+    border-radius: 2px;
+}
+
+    .btn:hover {
+        opacity: 0.9;
+    }
+
+
+.comm {
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serifRoboto;
+    font-size: 30px;
+    margin-left: 50px;
+    color: #f84464;
+    margin-left: 150px;
+}
+
+.num {
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', sans-serifRoboto;
+    font-size: 35px;
+    margin-left: 90px;
+    color: gold;
+}
+
+.st {
+    margin-right: 100px;
+}
+
+#GridView1 {
+    display: none;
+    cursor: move;
+}
+
+.vc {
+    background-image: linear-gradient(90deg, rgb(34, 34, 34) 24.97%, rgb(34, 34, 34) 38.3%);
+    color: #f84464;
+    font-size: 30px;
+    border: none;
+    transition: ease-in-out;
+}
+
+    .vc:hover {
+        opacity: 0.9;
+    }
+
+.pb {
+    width: 45px;
+    height: 35px;
+    border: none;
+    border-radius: 3px 4px;
+    background-color: #f84464;
+    font-size: 29px;
+}
+
+    .pb:hover {
+        color: whitesmoke;
+        font-size: 25px;
+        opacity:0.9;
+    }

@@ -1,0 +1,26 @@
+﻿body {
+} .avatar {
+            vertical-align: middle;
+            width: 270px;
+            height: 370px;
+            border-radius: 20px;
+            margin-top: 20px;
+        }
+
+            .avatar:hover {
+                width: 260px;
+                height: 360px;
+            }
+       
+        
+         .lb {
+            text-decoration: none;
+            margin-left:20px;
+            color:black;
+            font-family:sans-serif,'ROG Fonts';
+            font-size:19px;
+        }
+        .lb:hover{
+            font-size:18px;
+            color:darkgray;
+        }

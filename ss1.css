@@ -1,0 +1,49 @@
+﻿.l1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: royalblue;
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+
+.tb {
+    Width: 400px;
+    height: 35px;
+    border-radius: 15px;
+    border: 2px solid lightgreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    padding: 5px;
+    position: relative;
+    outline: none;
+    background-color: white;
+}
+
+    .tb:hover {
+        border-color: lightpink;
+    }
+
+.lb {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    color: dimgrey;
+}
+
+.btn1 {
+    height: 45px;
+    width: 100px;
+    margin-left: 300px;
+    background-color: royalblue;
+    border: none;
+    border-radius: 7px;
+    color: whitesmoke;
+    font-size: 17px;
+    margin-top: 10px;
+    transition: 0.3s;
+}
+
+    .btn1:hover {
+        background-color: dodgerblue;
+    }
